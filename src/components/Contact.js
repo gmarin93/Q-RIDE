@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 
 const Contact = props => {
     return (
@@ -63,8 +62,5 @@ const Contact = props => {
     );
 };
 
-Contact.propTypes = {
-
-};
 
 export default Contact;

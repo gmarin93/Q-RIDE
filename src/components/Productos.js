@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react';
-import PropTypes from 'prop-types';
+
 
 const Productos = props => {
     return (
@@ -20,10 +20,10 @@ const Productos = props => {
                                 <h4>Walter White</h4>
                                 <span>Chief Executive Officer</span>
                                 <div className="social">
-                                    <a href=""><i className="fa fa-twitter"></i></a>
-                                    <a href=""><i className="fa fa-facebook"></i></a>
-                                    <a href=""><i className="fa fa-google-plus"></i></a>
-                                    <a href=""><i className="fa fa-linkedin"></i></a>
+                                    <a href="https://www.google.com/"><i className="fa fa-twitter"></i></a>
+                                    <a href="https://www.google.com/"><i className="fa fa-facebook"></i></a>
+                                    <a href="https://www.google.com/"><i className="fa fa-google-plus"></i></a>
+                                    <a href="https://www.google.com/"><i className="fa fa-linkedin"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -33,10 +33,10 @@ const Productos = props => {
                                 <h4>Sarah Jhinson</h4>
                                 <span>Product Manager</span>
                                 <div className="social">
-                                    <a href=""><i className="fa fa-twitter"></i></a>
-                                    <a href=""><i className="fa fa-facebook"></i></a>
-                                    <a href=""><i className="fa fa-google-plus"></i></a>
-                                    <a href=""><i className="fa fa-linkedin"></i></a>
+                                    <a href="https://www.google.com/"><i className="fa fa-twitter"></i></a>
+                                    <a href="https://www.google.com/"><i className="fa fa-facebook"></i></a>
+                                    <a href="https://www.google.com/"><i className="fa fa-google-plus"></i></a>
+                                    <a href="https://www.google.com/"><i className="fa fa-linkedin"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -46,10 +46,10 @@ const Productos = props => {
                                 <h4>William Anderson</h4>
                                 <span>CTO</span>
                                 <div className="social">
-                                    <a href=""><i className="fa fa-twitter"></i></a>
-                                    <a href=""><i className="fa fa-facebook"></i></a>
-                                    <a href=""><i className="fa fa-google-plus"></i></a>
-                                    <a href=""><i className="fa fa-linkedin"></i></a>
+                                    <a href="https://www.google.com/"><i className="fa fa-twitter"></i></a>
+                                    <a href="https://www.google.com/"><i className="fa fa-facebook"></i></a>
+                                    <a href="https://www.google.com/"><i className="fa fa-google-plus"></i></a>
+                                    <a href="https://www.google.com/"><i className="fa fa-linkedin"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -59,10 +59,10 @@ const Productos = props => {
                                 <h4>Walter White</h4>
                                 <span>Chief Executive Officer</span>
                                 <div className="social">
-                                    <a href=""><i className="fa fa-twitter"></i></a>
-                                    <a href=""><i className="fa fa-facebook"></i></a>
-                                    <a href=""><i className="fa fa-google-plus"></i></a>
-                                    <a href=""><i className="fa fa-linkedin"></i></a>
+                                    <a href="https://www.google.com/"><i className="fa fa-twitter"></i></a>
+                                    <a href="https://www.google.com/"><i className="fa fa-facebook"></i></a>
+                                    <a href="https://www.google.com/"><i className="fa fa-google-plus"></i></a>
+                                    <a href="https://www.google.com/"><i className="fa fa-linkedin"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -72,10 +72,10 @@ const Productos = props => {
                                 <h4>Amanda Jepson</h4>
                                 <span>Accountant</span>
                                 <div className="social">
-                                    <a href=""><i className="fa fa-twitter"></i></a>
-                                    <a href=""><i className="fa fa-facebook"></i></a>
-                                    <a href=""><i className="fa fa-google-plus"></i></a>
-                                    <a href=""><i className="fa fa-linkedin"></i></a>
+                                    <a href="https://www.google.com/"><i className="fa fa-twitter"></i></a>
+                                    <a href="https://www.google.com/"><i className="fa fa-facebook"></i></a>
+                                    <a href="https://www.google.com/"><i className="fa fa-google-plus"></i></a>
+                                    <a href="https://www.google.com/"><i className="fa fa-linkedin"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -86,8 +86,5 @@ const Productos = props => {
     );
 };
 
-Productos.propTypes = {
-
-};
 
 export default Productos;

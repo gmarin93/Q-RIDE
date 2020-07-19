@@ -1,5 +1,4 @@
 import React, { Fragment } from 'react';
-import PropTypes from 'prop-types';
 
 const AboutUs = props => {
     return (
@@ -43,8 +42,5 @@ const AboutUs = props => {
     );
 };
 
-AboutUs.propTypes = {
-
-};
 
 export default AboutUs;
