@@ -1,0 +1,33 @@
+import React, { Fragment } from 'react';
+import PropTypes from 'prop-types';
+
+const Home = props => {
+    return (
+
+        <Fragment>
+
+            <section id="hero">
+                <div className="hero-container">
+                    <div className="wow fadeIn">
+                        <div className="hero-logo">
+                            <img className="" src="img/logo3.png" alt="Imperial" />
+                        </div>
+                        <h1>Welcome to Q' Ride Travel Agency!</h1>
+                        <h2>We are your <span className="rotating">Best Option,Best Experience, Best Travel!</span></h2>
+                        <div className="actions">
+                            <a href="#about" className="btn-get-started">Get Strated</a>
+                            <a href="#services" className="btn-services">Our Services</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </Fragment>
+
+    );
+};
+
+Home.propTypes = {
+
+};
+
+export default Home;
