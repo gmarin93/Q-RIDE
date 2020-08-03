@@ -16,7 +16,7 @@ const Home = props => {
                         <h2>We are your <span className="rotating">Best Option,Best Experience, Best Travel!</span></h2>
                         <div className="actions">
                             <a href="#about" className="btn-get-started">Get Strated</a>
-                            <a href="#services" className="btn-services">Our Services</a>
+                            <a href="#services" className="btn-services">Our Packages</a>
                         </div>
                     </div>
                 </div>

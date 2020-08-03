@@ -9,7 +9,7 @@ const AboutUs = props => {
                         <div className="col-md-12">
                             <h3 className="section-title">About Us</h3>
                             <div className="section-title-divider"></div>
-                            <p className="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam</p>
+                            <p className="section-description"></p>
                         </div>
                     </div>
                 </div>
@@ -21,17 +21,24 @@ const AboutUs = props => {
                         </div>
 
                         <div className="col-md-6 about-content">
-                            <h2 className="about-title">We provide great services and ideass</h2>
+                            <h2 className="about-title">We provide great,safely and unforgetable travels</h2>
                             <p className="about-text">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                                in reprehenderit in voluptate
+                                We are a company specialized in providing unique travel experiences and tourist activities for our
+                                customers inside and outside Costa Rica with the quality and confidence that characterizes us with
+                                highly trained personnel to help you to select the best option for your budget, presenting
+                                innovative services to satisfaction of the customers.   
           </p>
+                            <h2 className="about-title">Our Mission</h2>
                             <p className="about-text">
-                                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-                                id est laborum
+                                Offer the best personalized travel experience with quality and reliability, through the good attention of our trained personnel, designing unique trips, at affordable prices, managing to exceed the expectations of our clients..
+                                
           </p>
+                        </div>
+                        <div className="col-md-12 about-content">
+                        <h2 className="about-title"></h2>
+                            <h2 className="about-title">Our Vision</h2>
                             <p className="about-text">
-                                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt molli.
+                                Become the most Pura vida Travel Agency in our region, due to the trust and security we offer our clients, presenting innovative services and ensuring a stable tourist activity, promoting an environment of good relations and obtaining the greatest satisfaction from our clients.
           </p>
                         </div>
                     </div>

@@ -10,7 +10,7 @@ const Footer = props => {
                             &copy; Copyright <strong>gmarin93-Travel Agency</strong>. All Rights Reserved
           </div>
                         <div className="credits">
-                            Designed by <a href="https://bootstrapmade.com/">@gmarin93</a>
+                            Designed by <a href="https://gitlab.com/gmarin93">@gmarin93</a>
                         </div>
                     </div>
                 </div>

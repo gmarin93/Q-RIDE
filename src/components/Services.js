@@ -8,42 +8,40 @@ const Services = props => {
                 <div className="container wow fadeInUp">
                     <div className="row">
                         <div className="col-md-12">
-                            <h3 className="section-title">Our Services</h3>
+                            <h3 className="section-title">Our Packages</h3>
                             <div className="section-title-divider"></div>
-                            <p className="section-description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium</p>
+                            <p className="section-description"></p>
                         </div>
                     </div>
 
                     <div className="row">
-                        <div className="col-md-4 service-item">
-                            <div className="service-icon"><i className="fa fa-desktop"></i></div>
-                            <h4 className="service-title"><a href="https://www.google.com/">Lorem Ipsum</a></h4>
-                            <p className="service-description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                        <div className="col-md-3 service-item">
+                            <div className="service-icon"><i className="fa fa-plane"></i></div>
+                            <h4 className="service-title"><a href="https://www.google.com/">Barcelona</a></h4>
+                            <p className="service-description">
+                            Travel to Barcelona, enjoy 7 Nights in the Almanac Barcelona, learn about the art of Picasso In the Picasso museum, private transport included.
+                            <strong>Price: 2028$ Travellers:2</strong>
+                            </p>
+                            
                         </div>
-                        <div className="col-md-4 service-item">
-                            <div className="service-icon"><i className="fa fa-bar-chart"></i></div>
-                            <h4 className="service-title"><a href="https://www.google.com/">Dolor Sitema</a></h4>
-                            <p className="service-description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+                        <div className="col-md-3 service-item">
+                            <div className="service-icon"><i className="fa fa-plane"></i></div>
+                            <h4 className="service-title"><a href="https://www.google.com/">Puerto viejo</a></h4>
+                            <p className="service-description">Get to the beautiful Puerto viejo, Costa rica for 3 nights in the Le cameleon Hotel, know about the nature of this place with the tour of jaguar rescue center, private transport included.
+                            <strong>Price: 694$ Travellers:2</strong>
+                            </p>
                         </div>
-                        <div className="col-md-4 service-item">
-                            <div className="service-icon"><i className="fa fa-paper-plane"></i></div>
-                            <h4 className="service-title"><a href="https://www.google.com/">Sed ut perspiciatis</a></h4>
-                            <p className="service-description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+                        <div className="col-md-3 service-item">
+                            <div className="service-icon"><i className="fa fa-plane"></i></div>
+                            <h4 className="service-title"><a href="https://www.google.com/">Punta Cana</a></h4>
+                            <p className="service-description">Explore the magnificent coasts of Punta Cana, enjoy 5 nights in the Barcelo Bavaro Palace, take an adventure in the top experience tour, private transport included
+                            <strong>Price: 694$ Travellers:2</strong></p>
                         </div>
-                        <div className="col-md-4 service-item">
-                            <div className="service-icon"><i className="fa fa-photo"></i></div>
-                            <h4 className="service-title"><a href="https://www.google.com/">Magni Dolores</a></h4>
-                            <p className="service-description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-                        </div>
-                        <div className="col-md-4 service-item">
-                            <div className="service-icon"><i className="fa fa-road"></i></div>
-                            <h4 className="service-title"><a href="https://www.google.com/">Nemo Enim</a></h4>
-                            <p className="service-description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-                        </div>
-                        <div className="col-md-4 service-item">
-                            <div className="service-icon"><i className="fa fa-shopping-bag"></i></div>
-                            <h4 className="service-title"><a href="https://www.google.com/">Eiusmod Tempor</a></h4>
-                            <p className="service-description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+                        <div className="col-md-3 service-item">
+                            <div className="service-icon"><i className="fa fa-plane"></i></div>
+                            <h4 className="service-title"><a href="https://www.google.com/">La Fortuna</a></h4>
+                            <p className="service-description">If you come to Costa Rica you must go to La Fortuna, share your experience for 4 nights to other travelers in the Sellinas hostel, explore la fortuna with a guide tour, private transport included. 
+                            <strong> Price: 300$ Travellers:2</strong></p>
                         </div>
                     </div>
                 </div>

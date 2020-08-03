@@ -8,7 +8,7 @@ const Contact = props => {
                     <div className="col-md-12">
                         <h3 className="section-title">Contact Us</h3>
                         <div className="section-title-divider"></div>
-                        <p className="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+                        <p className="section-description"></p>
                     </div>
                 </div>
                 <div className="row">
@@ -16,17 +16,17 @@ const Contact = props => {
                         <div className="info">
                             <div>
                                 <i className="fa fa-map-marker"></i>
-                                <p>A108 Adam Street<br />New York, NY 535022<br /></p>
+                                <p>La Fortuna, San Carlos<br />500 meters west, Los Vargas Street <br /></p>
                             </div>
 
                             <div>
                                 <i className="fa fa-envelope"></i>
-                                <p>info@example.com</p>
+                                <p>info@queride@cr.com</p>
                             </div>
 
                             <div>
                                 <i className="fa fa-phone"></i>
-                                <p>+1 5589 55488 55s</p>
+                                <p>+506 2460 8888</p>
                             </div>
 
                         </div>

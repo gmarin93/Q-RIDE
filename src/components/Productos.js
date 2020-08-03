@@ -1,82 +1,47 @@
 import React, { Fragment } from 'react';
 
 
-const Productos = props => {
+const Productos = ({title}) => {
     return (
         <Fragment>
             <section id="team">
                 <div className="container wow fadeInUp">
                     <div className="row">
                         <div className="col-md-12">
-                            <h3 className="section-title">Our Team</h3>
+                            <h3 className="section-title">{title}</h3>
                             <div className="section-title-divider"></div>
-                            <p className="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+                            <p className="section-description"></p>
                         </div>
                     </div>
                     <div className="row">
                         <div className="col-md-3">
                             <div className="member">
-                                <div className="pic"><img src="img/team-1.jpg" alt=""></img></div>
-                                <h4>Walter White</h4>
-                                <span>Chief Executive Officer</span>
-                                <div className="social">
-                                    <a href="https://www.google.com/"><i className="fa fa-twitter"></i></a>
-                                    <a href="https://www.google.com/"><i className="fa fa-facebook"></i></a>
-                                    <a href="https://www.google.com/"><i className="fa fa-google-plus"></i></a>
-                                    <a href="https://www.google.com/"><i className="fa fa-linkedin"></i></a>
-                                </div>
+                                <div className="pic"><img src="img/love.jpg" alt=""></img></div>
+                                <h4>San Valentine's day, valid for all month</h4>
+                                <span>25% Discount in travels on February</span>
                             </div>
                         </div>
                         <div className="col-md-3">
                             <div className="member">
-                                <div className="pic"><img src="img/team-1.jpg" alt=""></img></div>
-                                <h4>Sarah Jhinson</h4>
-                                <span>Product Manager</span>
-                                <div className="social">
-                                    <a href="https://www.google.com/"><i className="fa fa-twitter"></i></a>
-                                    <a href="https://www.google.com/"><i className="fa fa-facebook"></i></a>
-                                    <a href="https://www.google.com/"><i className="fa fa-google-plus"></i></a>
-                                    <a href="https://www.google.com/"><i className="fa fa-linkedin"></i></a>
-                                </div>
+                                <div className="pic"><img src="img/tulemar-bungalows-villas.jpg" alt=""></img></div>
+                                <h4>An half year vacation, valid since June until Agust</h4>
+                                <span>1 Extra free night on affiliated hotels</span>
+                               
                             </div>
                         </div>
                         <div className="col-md-3">
                             <div className="member">
-                                <div className="pic"><img src="img/team-1.jpg" alt=""></img></div>
-                                <h4>William Anderson</h4>
-                                <span>CTO</span>
-                                <div className="social">
-                                    <a href="https://www.google.com/"><i className="fa fa-twitter"></i></a>
-                                    <a href="https://www.google.com/"><i className="fa fa-facebook"></i></a>
-                                    <a href="https://www.google.com/"><i className="fa fa-google-plus"></i></a>
-                                    <a href="https://www.google.com/"><i className="fa fa-linkedin"></i></a>
-                                </div>
+                                <div className="pic"><img src="img/SantaTanker.jpg" alt=""></img></div>
+                                <h4>Christmas Eve</h4>
+                                <span>15% Discount on affiliated airlines</span>
+
                             </div>
                         </div>
                         <div className="col-md-3">
                             <div className="member">
-                                <div className="pic"><img src="img/team-1.jpg" alt=""></img></div>
-                                <h4>Walter White</h4>
-                                <span>Chief Executive Officer</span>
-                                <div className="social">
-                                    <a href="https://www.google.com/"><i className="fa fa-twitter"></i></a>
-                                    <a href="https://www.google.com/"><i className="fa fa-facebook"></i></a>
-                                    <a href="https://www.google.com/"><i className="fa fa-google-plus"></i></a>
-                                    <a href="https://www.google.com/"><i className="fa fa-linkedin"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-md-3">
-                            <div className="member">
-                                <div className="pic"><img src="img/team-1.jpg" alt=""></img></div>
-                                <h4>Amanda Jepson</h4>
-                                <span>Accountant</span>
-                                <div className="social">
-                                    <a href="https://www.google.com/"><i className="fa fa-twitter"></i></a>
-                                    <a href="https://www.google.com/"><i className="fa fa-facebook"></i></a>
-                                    <a href="https://www.google.com/"><i className="fa fa-google-plus"></i></a>
-                                    <a href="https://www.google.com/"><i className="fa fa-linkedin"></i></a>
-                                </div>
+                                <div className="pic"><img src="img/Costa-Rica.jpg" alt=""></img></div>
+                                <h4>National Travellers</h4>
+                                <span>10% Discount on national tours</span>
                             </div>
                         </div>
                     </div>

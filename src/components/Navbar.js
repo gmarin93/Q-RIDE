@@ -19,27 +19,10 @@ const Navbar = props => {
                         <ul className="nav-menu">
                             <li className="menu-active"><a href="#hero">Home</a></li>
                             <li><a href="#about">About Us</a></li>
-                            <li><a href="#services">Services</a></li>
-                            <li><a href="#portfolio">Discounts</a></li>
-                            <li><a href="#testimonials">Hotels</a></li>
-                            <li><a href="#team">Destiny</a></li>
-                            <li className="menu-has-children"><a href="https://www.google.com/">About us</a>
-                                <ul>
-                                    <li><a href="https://www.google.com/">Drop Down 1</a></li>
-                                    <li className="menu-has-children"><a href="https://www.google.com/">Drop Down 2</a>
-                                        <ul>
-                                            <li><a href="https://www.google.com/">Deep Drop Down 1</a></li>
-                                            <li><a href="https://www.google.com/">Deep Drop Down 2</a></li>
-                                            <li><a href="https://www.google.com/">Deep Drop Down 3</a></li>
-                                            <li><a href="https://www.google.com/">Deep Drop Down 4</a></li>
-                                            <li><a href="https://www.google.com/">Deep Drop Down 5</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="https://www.google.com/">Drop Down 3</a></li>
-                                    <li><a href="https://www.google.com/">Drop Down 4</a></li>
-                                    <li><a href="https://www.google.com/">Drop Down 5</a></li>
-                                </ul>
-                            </li>
+                            <li><a href="#services">Packages</a></li>
+                            <li><a href="#portfolio">Hotels</a></li>
+                            <li><a href="#team">Special Promotions</a></li>
+                            <li><a href="#terms">Terms and Conditions</a></li>
                             <li><a href="#contact">Contact Us</a></li>
                         </ul>
                     </nav>
