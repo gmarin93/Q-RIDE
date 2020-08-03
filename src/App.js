@@ -33,9 +33,9 @@ function App() {
     ,
     "The Almanac Barcelona establishment is located in an exclusive place, with a short walking distance from Paseo de Gracia and the central Plaza Cataluña. This luxurious hotel has a panoramic bar, rooftop terrace and an exclusive swimming pool with a solarium. The property also has fitness and wellness areas, a treatment room, a steam sauna and a relaxation room."
     ,
-    "Located in Tokyo, within 5 km of Hatomori Hachiman Shrine and 6 km of Min-On Concert Association, Mitsui Garden Hotel Jingu Gaien Tokyo Premier provides accommodation with a restaurant and a fitness centre, and free WiFi."
-    ,
     "Located in front of the Bávaro Beach, in Punta Cana, the Barceló Bávaro Palace offers 4 swimming pools, a golf course, 3 km of private beach and activities for children and adults. The 11 restaurants serve specialty à la carte dishes. Miramar Buffet serves international cuisine and Bohio Dominicano has local dishes."
+    ,
+    "Located in Tokyo, within 5 km of Hatomori Hachiman Shrine and 6 km of Min-On Concert Association, Mitsui Garden Hotel Jingu Gaien Tokyo Premier provides accommodation with a restaurant and a fitness centre, and free WiFi."
     
   ];
 
@@ -58,7 +58,7 @@ function App() {
   var imagesNationals=["portfolio-5.jpg","portfolio-4.jpg","portfolio-3.jpg","portfolio-2.jpg","portfolio-1.jpg"];
 
 
-  var imagesInternationals=["portfolio-6.jpg","portfolio-7.jpg","portfolio-8.jpg","portfolio-9.jpg","portfolio-10.jpg"];
+  var imagesInternationals=["portfolio-6.jpg","portfolio-7.jpg","portfolio-8.jpg","portfolio-10.jpg","portfolio-9.jpg"];
 
   var namesNationals=["Occidental Tamarindo","Selina","Los Altos Resort ","Le Caméléon","Bungalows Ballena"];
 

@@ -15,7 +15,7 @@ const Home = props => {
                         <h1>Welcome to Q' Ride Travel Agency!</h1>
                         <h2>We are your <span className="rotating">Best Option,Best Experience, Best Travel!</span></h2>
                         <div className="actions">
-                            <a href="#about" className="btn-get-started">Get Strated</a>
+                            <a href="#about" className="btn-get-started">Get Started</a>
                             <a href="#services" className="btn-services">Our Packages</a>
                         </div>
                     </div>

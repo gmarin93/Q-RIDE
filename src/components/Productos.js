@@ -24,7 +24,7 @@ const Productos = ({title}) => {
                         <div className="col-md-3">
                             <div className="member">
                                 <div className="pic"><img src="img/tulemar-bungalows-villas.jpg" alt=""></img></div>
-                                <h4>An half year vacation, valid since June until Agust</h4>
+                                <h4>An half year vacation, valid since June until August</h4>
                                 <span>1 Extra free night on affiliated hotels</span>
                                
                             </div>
