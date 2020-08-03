@@ -15,7 +15,7 @@ const Destiny = ({ title, images, names, infoNacional, InfoNacionalPrices }) => 
 
                     <div className="row">
                         <div className="col-md-3">
-                            <a className="portfolio-item" style={{ 'background-image': `url(${`../img/${images[0]}`})` }} href="https://www.google.com/">
+                            <a className="portfolio-item" style={{ 'background-image': `url(${`../img/${images[0]}`})` }} href="">
                                 <div className="details">
                                     <h4>{names[0]}</h4>
                                     <span>{infoNacional[4]}</span>
@@ -25,7 +25,7 @@ const Destiny = ({ title, images, names, infoNacional, InfoNacionalPrices }) => 
                         </div>
 
                         <div className="col-md-3">
-                            <a className="portfolio-item" style={{ 'background-image': `url(${`../img/${images[1]}`})` }} href="https://www.google.com/">
+                            <a className="portfolio-item" style={{ 'background-image': `url(${`../img/${images[1]}`})` }} href="">
                                 <div className="details">
                                     <h4>{names[1]}</h4>
                                     <span>{infoNacional[4]}</span>
@@ -34,7 +34,7 @@ const Destiny = ({ title, images, names, infoNacional, InfoNacionalPrices }) => 
                             </a>
                         </div>
                         <div className="col-md-3">
-                            <a className="portfolio-item" style={{ 'background-image': `url(${`../img/${images[2]}`})` }} href="https://www.google.com/">
+                            <a className="portfolio-item" style={{ 'background-image': `url(${`../img/${images[2]}`})` }} href="">
                                 <div className="details">
                                     <h4>{names[2]}</h4>
                                     <span>{infoNacional[0]}</span>
@@ -44,7 +44,7 @@ const Destiny = ({ title, images, names, infoNacional, InfoNacionalPrices }) => 
                         </div>
 
                         <div className="col-md-3">
-                            <a className="portfolio-item" style={{ 'background-image': `url(${`../img/${images[3]}`})` }} href="https://www.google.com/">
+                            <a className="portfolio-item" style={{ 'background-image': `url(${`../img/${images[3]}`})` }} href="">
                                 <div className="details">
                                     <h4>{names[4]}</h4>
                                     <span>{infoNacional[1]}</span>
@@ -53,7 +53,7 @@ const Destiny = ({ title, images, names, infoNacional, InfoNacionalPrices }) => 
                             </a>
                         </div>
                         <div className="col-md-3">
-                            <a className="portfolio-item" style={{ 'background-image': `url(${`../img/${images[4]}`})` }} href="https://www.google.com/">
+                            <a className="portfolio-item" style={{ 'background-image': `url(${`../img/${images[4]}`})` }} href="">
                                 <div className="details">
                                     <h4>{names[3]}</h4>
                                     <span>{infoNacional[2]}</span>
