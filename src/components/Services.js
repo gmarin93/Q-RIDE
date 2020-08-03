@@ -50,7 +50,6 @@ const Services = props => {
                     </div>
                 </div>
             </section>
-
         </Fragment>
     );
 };

@@ -7,12 +7,10 @@ const Navbar = props => {
             <header id="header">
                 <div className="container">
 
-                    <div id="logo" className="pull-left" style={{'margin':'-21px'}}>
+                    <div id="logo" className="pull-left" style={{ 'margin': '-21px' }}>
                         <a href="https://www.google.com/">
                             <img src="img/logo3.png" className="" alt="" title="" />
                         </a>
-
-                        {/* <h1><a href="#hero">Q' RIDE</a></h1> */}
                     </div>
 
                     <nav id="nav-menu-container">
