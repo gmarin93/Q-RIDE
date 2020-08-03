@@ -28,7 +28,7 @@ const Destiny = ({ title, images, names, infoNacional, InfoNacionalPrices }) => 
                             <a className="portfolio-item" style={{ 'background-image': `url(${`../img/${images[1]}`})` }} href="#">
                                 <div className="details">
                                     <h4>{names[1]}</h4>
-                                    <span>{infoNacional[4]}</span>
+                                    <span>{infoNacional[3]}</span>
                                     <span><strong>{InfoNacionalPrices[1]}</strong></span>
                                 </div>
                             </a>
