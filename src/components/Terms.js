@@ -33,6 +33,7 @@ const Terms = props => {
                                 The prices reported on our website are expressed in Colones (unless otherwise stated) and include taxes.
                             </p>
 
+
                             <h2 className="about-title">Reservations and Payments</h2>
                             <p className="about-text">
                                 A deposit of an amount equivalent to 20% of the total reported price will be required to proceed to confirm your reservations. The amount of the final balance must be received by Que ride within 30 days prior to the arrival date at the starting point of your trip. If the payment of the final balance is not received within the indicated period, Que ride reserves the right to cancel the reservations. Those contracts made less than 30 days prior to the arrival date at the starting point of your trip, must be paid in full before the arrival date.
@@ -85,9 +86,8 @@ const Terms = props => {
 
                             <h2 className="about-title">Problem and inconvenience notifications</h2>
                             <p className="about-text">
-                            If any problem or inconvenience arose during your trip, it is very important that you inform us immediately so that we can assist you with its resolution and in order to minimize possible adverse effects. In the event that for any reason you could not inform us of the surgical inconvenience, please inform us in writing within 30 days of arrival in your country, providing all the information you consider relevant. If possible, we will assist you in everything in our power to find a solution to the problem that has occurred.
+                              If any problem or inconvenience arose during your trip,it is very important that you inform us immediately so that we can assist you with its resolution and in order to minimize possible adverse effects. In the event that for any reason you could not inform us of the surgical inconvenience, please inform us in writing within 30 days of arrival in your country, providing all the information you consider relevant. If possible, we will assist you in everything in our power to find a solution to the problem that has occurred.
                             </p>
-
                         </div>
                     </div>
                 </div>

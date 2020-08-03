@@ -57,7 +57,6 @@ function App() {
 
   var imagesNationals=["portfolio-5.jpg","portfolio-4.jpg","portfolio-3.jpg","portfolio-2.jpg","portfolio-1.jpg"];
 
-
   var imagesInternationals=["portfolio-6.jpg","portfolio-7.jpg","portfolio-8.jpg","portfolio-10.jpg","portfolio-9.jpg"];
 
   var namesNationals=["Occidental Tamarindo","Selina","Los Altos Resort ","Le Caméléon","Bungalows Ballena"];
